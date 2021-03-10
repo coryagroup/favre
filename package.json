@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/coryagroup/favre#readme",
   "dependencies": {
-    "debounce": "^1.2.0",
+    "debounce": "^1.2.1",
     "ip": "^1.1.5",
     "iprange": "^0.1.0",
     "mustache": "^4.1.0",
