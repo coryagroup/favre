@@ -21,7 +21,7 @@
     "debounce": "^1.2.0",
     "ip": "^1.1.5",
     "iprange": "^0.1.0",
-    "mustache": "^4.1.0",
+    "mustache": "^4.2.0",
     "node-discover": "^1.2.0",
     "node-watch": "^0.7.1",
     "sleepjs": "^4.0.3"
